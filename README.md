@@ -1,0 +1,2 @@
+# pokedex
+trilha desenvolvedor pokédex
